@@ -24,7 +24,7 @@ function sayHiToGrandma(string){
   } else if{
     console.log(string) === "I love you, Grandma."
     return 'I love you, too.'
-    
+
   }
-  
+
 }
